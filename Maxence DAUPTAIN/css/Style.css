@@ -1,0 +1,76 @@
+body {
+	background-color: white
+	color: rgb(100, 100, 100);
+	font-family: 'Baskervville', serif;
+	padding: 70px
+}
+
+h1 {
+	color: rgb(0, 0, 0);
+	font-family: 'Baskervville', serif;
+	font-size: 30px;
+	line-height: 1;
+	letter-spacing: 10px;
+	font-weight: lighter;
+	
+	text-decoration: none;
+	text-justify: text-justify;
+}
+
+h2 {
+	color: rgb(0, 0, 0);
+	font-family: 'Baskervville', serif;
+	font-size: 30px;
+	line-height: 1;
+	letter-spacing: 10px;
+	font-weight: lighter;
+	background-color: white
+
+	text-decoration: none;
+	text-justify: text-justify;
+}
+
+a {
+	text-decoration: none;
+	color: rgb( 0, 0, 0);
+}
+
+a:hover {
+	color: grey
+}
+
+#Profil { 
+width: 300px
+
+ }
+p{
+color: black
+}
+
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: red
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3)
+	border-radius: 4px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.list-inline > li {
+	height: 50px;
+}
+
+.list-inline > li > a > i {
+	font-size: 2.5rem;
+}
+
+
+
+
+
